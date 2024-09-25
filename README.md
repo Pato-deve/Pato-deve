@@ -1,4 +1,4 @@
-![Fondo](https://perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
+![Fondo](https://i.imgur.com/15Fe5XA.jpeg)
 # Desarrollador de Software
 
 ##💻 Tecnologias

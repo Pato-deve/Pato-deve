@@ -1,4 +1,4 @@
-![Fondo](https://www.shutterstock.com/shutterstock/videos/7138747/thumb/1.jpg?ip=x480)
+![Fondo](https://4kwallpapers.com/images/walls/thumbs_3t/15074.png)
 # Desarrollador de Software
 
 >💻 Tecnologias

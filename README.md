@@ -14,5 +14,5 @@
 ## Portfolio
 [Web](https://patofolio.vercel.app)
 [](https://patofolio.vercel.app/itbank.png)
-![Fondo Generico](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
-[](https://i.imgur.com/F2g1k1K.gif)
+[Fondo Generico](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
+[fibonacci](https://i.imgur.com/F2g1k1K.gif)

@@ -11,7 +11,7 @@
 - Python, Django, MongoDB
 - SQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Pato-deve&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?usernamePato-deve&layout=compact&theme=dark)
 
 ## Portfolio
 [Web](https://patofolio.vercel.app)

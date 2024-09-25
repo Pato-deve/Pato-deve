@@ -1,13 +1,13 @@
 ![](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
 ![Pato Deve](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fibonacci2.gif)
-## Desarrollador de Software
+# Desarrollador de Software
 
-###💻 Tecnologias
+##💻 Tecnologias
 - **HTML, CSS, Sass, Tailwind**
 - **React, Nodejs, Nextjs**
 
 
-###🌱 Actualmente aprendiendo
+##🌱 Actualmente aprendiendo
 - **TypeScript**
 - **Python, Django, MongoDB**
 - **SQL**

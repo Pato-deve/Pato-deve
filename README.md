@@ -1,3 +1,4 @@
+![](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
 ![Pato Deve](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fibonacci2.gif)
 ## Desarrollador de Software
 
@@ -13,6 +14,5 @@
 
 ## Portfolio
 [Web](https://patofolio.vercel.app)
-[](https://patofolio.vercel.app/public/itbank.png)
-[](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
+![](https://patofolio.vercel.app/public/itbank.png)
 ![](https://i.imgur.com/F2g1k1K.gif)

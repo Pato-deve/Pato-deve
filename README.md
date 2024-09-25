@@ -1,5 +1,4 @@
 ![Fondo](https://perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
-![Pato Deve](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fibonacci2.gif)
 # Desarrollador de Software
 
 ##💻 Tecnologias

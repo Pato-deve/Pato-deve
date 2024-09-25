@@ -13,4 +13,5 @@
 
 ## Portfolio
 [Web](https://patofolio.vercel.app)
-![](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
+![Fondo Generico](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
+![Fibonacci GIF](https://i.imgur.com/tuenlace.gif)

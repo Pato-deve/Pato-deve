@@ -15,4 +15,4 @@
 [Web](https://patofolio.vercel.app)
 [](https://patofolio.vercel.app/public/itbank.png)
 [](https://www.perfilgithugpato-nmgucgffg-pato-devs-projects.vercel.app/fondogenerico.jpg)
-[](https://i.imgur.com/F2g1k1K.gif)
+![](https://i.imgur.com/F2g1k1K.gif)

@@ -1,4 +1,4 @@
-![Fondo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJmemx6YWZjZm1uYzM1Yjd5NGJsNmx3NDB5dHVxZDgwZ3ZqaTl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZnuz4coJp8EBBm/giphy.webp)
+![Fondo](https://media1.tenor.com/m/iVe379jHOJIAAAAC/hacker-hack.gif)
 # Desarrollador de Software
 
 >💻 Tecnologias

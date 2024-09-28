@@ -1,4 +1,4 @@
-![Fondo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3dlaHBtdnY5M2Nmd3BtaWJ0MHZiMXc3Mm9nYjd6cjJtZTQ3Y2pvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.webp)
+![Fondo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJmemx6YWZjZm1uYzM1Yjd5NGJsNmx3NDB5dHVxZDgwZ3ZqaTl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZnuz4coJp8EBBm/giphy.webp)
 # Desarrollador de Software
 
 >💻 Tecnologias

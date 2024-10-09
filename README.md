@@ -1,7 +1,7 @@
 ![Fondo](https://media1.tenor.com/m/iVe379jHOJIAAAAC/hacker-hack.gif)
 # Desarrollador de Software
 
-> .[!NOTE].
+> [!NOTE]
 > esta es una prueba
 
 >💻 Tecnologias

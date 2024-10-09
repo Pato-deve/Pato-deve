@@ -1,7 +1,7 @@
 ![Fondo](https://media1.tenor.com/m/iVe379jHOJIAAAAC/hacker-hack.gif)
 # Desarrollador de Software
 
-.[!TIPS].
+.[!TIP].
 >💻 Tecnologias
 - **HTML, CSS, Sass, Tailwind**
 - **React, Nodejs, Nextjs**

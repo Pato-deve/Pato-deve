@@ -4,7 +4,9 @@
   # PATRICIO MARTÍNEZ
   **FULLSTACK DEVELOPER // SYSADMIN // STUDENT @ UNPAZ**
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-patriciomartinez.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patriciomartinez.com)
+  <a href="https://patriciomartinez.com"><img src="https://img.shields.io/badge/Portfolio-patriciomartinez.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/patricio-mart%C3%ADnez-86a001180" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contacto@patriciomartinez.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br>
@@ -41,18 +43,6 @@
   <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-</p>
-
-<br>
-
-### ▓ NETWORK
-<p>
-  <a href="https://linkedin.com/in/patricio-martínez-86a001180" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contacto@patriciomartinez.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <br><br>

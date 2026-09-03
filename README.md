@@ -6,6 +6,13 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-patriciomartinez.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patriciomartinez.com)
 </div>
+<br>
+<p>
+  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<br><br>
 
 <br>
 

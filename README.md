@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/EvA7u9NgdRYAAAAi/red.gif" width="100%" height="160" style="object-fit: cover; border-bottom: 2px solid #333; margin-bottom: 20px;" alt="Blood Banner" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HOST_|_║▌│█║║▌│█▌│_Patricio.MARTINEZ_~---000000?style=for-the-badge&logo=linux&logoColor=white" width="750" alt="System" />
+  <img src="https://img.shields.io/badge/HOST_|_║▌│█║║▌│█▌│_Patricio.MARTINEZ_~---000000?style=for-the-badge&logo=linux&logoColor=white" width="650" alt="System" />
 </p>
   
   <br><br>

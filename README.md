@@ -6,13 +6,6 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-patriciomartinez.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patriciomartinez.com)
 </div>
-<br>
-<p>
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<br><br>
 
 <br>
 
@@ -50,12 +43,32 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
+<br>
+
+### ▓ NETWORK
+<p>
+  <a href="https://linkedin.com/in/patricio-martínez-86a001180" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contacto@patriciomartinez.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <br><br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LpisVQR89FBaE6EXSh/giphy.gif" width="70" style="margin: 0 15px;" alt="Windows Retro" />
   <img src="https://media.giphy.com/media/7vAfO2Vv6EEcQMZ7wX/giphy.gif" width="70" style="margin: 0 15px;" alt="Alien VHS" />
   <img src="https://media.giphy.com/media/3o7WIrwBp1FA3J92SY/giphy.gif" width="70" style="margin: 0 15px;" alt="Doom" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://cyber.dabamos.de/88x31/vim.gif" alt="Vim" style="margin: 0 5px;" />
+  <img src="https://cyber.dabamos.de/88x31/linux.gif" alt="Linux" style="margin: 0 5px;" />
+  <img src="https://cyber.dabamos.de/88x31/best_viewed_with_eyes.gif" alt="Eyes" style="margin: 0 5px;" />
 </div>
 
 <br><br>

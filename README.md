@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/91/1e/83/911e83804093727baa4cb5fa6be4cf05.gif" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #333;"/>
+  <img src="[https://i.pinimg.com/originals/91/1e/83/911e83804093727baa4cb5fa6be4cf05.gif](https://media.tenor.com/UXMk5lZUkl4AAAAi/black-chain.gif)" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #333;"/>
 
   <br><br>
 

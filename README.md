@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/Vk_0lc1KUGQAAAAi/monster-energy-chain.gif" style="border-bottom: 2px solid #333; margin-bottom: 20px;"/>
+  <img src="https://media.tenor.com/VWaAeb6PypoAAAAi/divider.gif" style="border-bottom: 2px solid #333; margin-bottom: 20px;"/>
 
   # PATRICIO MARTÍNEZ
   **FULLSTACK DEVELOPER // SYSADMIN // STUDENT @ UNPAZ**

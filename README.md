@@ -1,20 +1,52 @@
-![Fondo]([https://media1.tenor.com/m/iVe379jHOJIAAAAC/hacker-hack.gif](https://i.pinimg.com/originals/91/1e/83/911e83804093727baa4cb5fa6be4cf05.gif))
-# Desarrollador de Software
+<div align="center">
+  <img src="https://i.pinimg.com/originals/91/1e/83/911e83804093727baa4cb5fa6be4cf05.gif" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #333;"/>
+
+  <br><br>
+
+  # PATRICIO MARTÍNEZ
+  **FULLSTACK DEVELOPER // SYSADMIN // STUDENT @ UNPAZ**
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-patriciomartinez.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://patriciomartinez.com)
+</div>
+
+<br>
+
+### ▓ ABOUT
+> Building scalable, efficient web solutions and managing secure infrastructure. 
+> Currently studying Computer Engineering and operating a bare-metal Proxmox homelab (`ikiru`).
+> Minimalist approach. Zero bloatware. High performance.
+
+<br>
+
+### ▓ TECH STACK
+
+**[ FRONTEND ]**
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
 </p>
-## Portfolio
-[Web](https://patriciomartinez.com)
-#
-![](https://giphy.com/stickers/7vAfO2Vv6EEcQMZ7wX)
+
+**[ BACKEND & DATA ]**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+</p>
+
+**[ INFRA & TOOLS ]**
+<p>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Proxmox-000000?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/7vAfO2Vv6EEcQMZ7wX/giphy.gif" width="50" style="opacity: 0.5;" />
+</div>

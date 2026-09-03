@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LpisVQR89FBaE6EXSh/giphy.gif" width="70" style="margin: 0 15px;" alt="Windows Retro" />
-  <img src="https://media.giphy.com/media/7vAfO2Vv6EEcQMZ7wX/giphy.gif" width="70" style="margin: 0 15px;" alt="Alien VHS" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNTA5OGxqYW0xbWZwd3N0ZTN5MmRod2ZuZjltNHR5NWhqNnJ1cjNkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7vAfO2Vv6EEcQMZ7wX/giphy.gif" width="70" style="margin: 0 15px;" alt="Alien VHS" />
   <img src="https://media.giphy.com/media/3o7WIrwBp1FA3J92SY/giphy.gif" width="70" style="margin: 0 15px;" alt="Doom" />
 </div>
 

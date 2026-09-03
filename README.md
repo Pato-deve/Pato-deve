@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media.tenor.com/EvA7u9NgdRYAAAAi/red.gif" width="100%" height="160" style="object-fit: cover; border-bottom: 2px solid #333; margin-bottom: 20px;" alt="Blood Banner" />
 
-  <pre>
-║▌│█║▌│ █║▌│█│║▌║
-P. MARTINEZ // SYS
+  <p><code>
+║▌│█║▌│ █║▌│█│║▌║<br>
+P. MARTINEZ // SYS<br>
 FULLSTACK // UNPAZ
-  </pre>
+  </code></p>
   
   <a href="https://patriciomartinez.com"><img src="https://img.shields.io/badge/Portfolio-patriciomartinez.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/patricio-mart%C3%ADnez-86a001180" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

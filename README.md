@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/VWaAeb6PypoAAAAi/divider.gif" style="border-bottom: 2px solid #333; margin-bottom: 20px;"/>
+  <img src="https://media.tenor.com/EvA7u9NgdRYAAAAi/red.gif" style="border-bottom: 2px solid #333; margin-bottom: 20px;"/>
 
   # PATRICIO MARTÍNEZ
   **FULLSTACK DEVELOPER // SYSADMIN // STUDENT @ UNPAZ**
@@ -64,5 +64,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.tenor.com/EvA7u9NgdRYAAAAi/red.gif" width="100%" height="80" style="object-fit: cover; opacity: 0.8; border-top: 2px solid #333;" alt="Red Glitch Footer" />
+  <img src="https://media.tenor.com/kRts6lBS9HYAAAAi/fire-line-fire.gif" width="100%" height="80" style="object-fit: cover; opacity: 0.8; border-top: 2px solid #333;" alt="Red Glitch Footer" />
 </div>

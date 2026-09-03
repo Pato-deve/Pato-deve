@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="[[https://i.pinimg.com/originals/91/1e/83/911e83804093727baa4cb5fa6be4cf05.gif](https://media.tenor.com/3YUPFEjbK6QAAAAi/chain-blinkie.gif)](https://media.tenor.com/UXMk5lZUkl4AAAAi/black-chain.gif)" width="100%" height="200" style="object-fit: cover; border-bottom: 2px solid #333;"/>
-
-  <br><br>
+  <img src="https://media.tenor.com/3YUPFEjbK6QAAAAi/chain-blinkie.gif" style="border-bottom: 2px solid #333; margin-bottom: 20px;"/>
 
   # PATRICIO MARTÍNEZ
   **FULLSTACK DEVELOPER // SYSADMIN // STUDENT @ UNPAZ**
@@ -56,5 +54,5 @@
 <br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif" width="100%" height="80" style="object-fit: cover; opacity: 0.7; border-top: 2px solid #333;" alt="Soundwave Footer" />
+  <img src="https://media.tenor.com/EvA7u9NgdRYAAAAi/red.gif" width="100%" height="80" style="object-fit: cover; opacity: 0.8; border-top: 2px solid #333;" alt="Red Glitch Footer" />
 </div>

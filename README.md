@@ -45,8 +45,16 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-<br>
+<br><br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/7vAfO2Vv6EEcQMZ7wX/giphy.gif" width="50" style="opacity: 0.5;" />
+  <img src="https://media.giphy.com/media/LpisVQR89FBaE6EXSh/giphy.gif" width="70" style="margin: 0 15px;" alt="Windows Retro" />
+  <img src="https://media.giphy.com/media/7vAfO2Vv6EEcQMZ7wX/giphy.gif" width="70" style="margin: 0 15px;" alt="Alien VHS" />
+  <img src="https://media.giphy.com/media/3o7WIrwBp1FA3J92SY/giphy.gif" width="70" style="margin: 0 15px;" alt="Doom" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/HeHaKhcJVj8r0cZx2J/giphy.gif" width="100%" height="80" style="object-fit: cover; opacity: 0.7; border-top: 2px solid #333;" alt="Soundwave Footer" />
 </div>

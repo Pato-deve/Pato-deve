@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/LpisVQR89FBaE6EXSh/giphy.gif" width="70" style="margin: 0 15px;" alt="Windows Retro" />
- src="https://media.giphy.com/media/3o7WIrwBp1FA3J92SY/giphy.gif" width="70" style="margin: 0 15px;" alt="Doom" />
+ <img src="https://media.giphy.com/media/3o7WIrwBp1FA3J92SY/giphy.gif" width="70" style="margin: 0 15px;" alt="Doom" />
 </div>
 
 <br>

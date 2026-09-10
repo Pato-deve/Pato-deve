@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <img src="https://cyber.dabamos.de/88x31/vim.gif" alt="Vim" style="margin: 0 5px;" />
+  <img src="https://cyber.dabamos.de/88x31/rar_download.gif" alt="Vim" style="margin: 0 5px;" />
   <img src="https://cyber.dabamos.de/88x31/linux.gif" alt="Linux" style="margin: 0 5px;" />
   <img src="https://cyber.dabamos.de/88x31/adobe_getflash4.gif" alt="Flash" style="margin: 0 5px;" />
 </div>
